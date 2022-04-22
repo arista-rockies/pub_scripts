@@ -11,7 +11,6 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-sn', help='Specify custom Serial Number')
 parser.add_argument('-mac', help='Specify custom Mac Address')
 parser.add_argument('-int', action='store_true', help='Only create OSPF/ISIS interface re-mapping requirements')
-# required=True, action='store_true','default='yes'
 
 args = parser.parse_args()
 
