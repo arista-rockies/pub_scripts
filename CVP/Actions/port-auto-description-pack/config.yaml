@@ -1,0 +1,4 @@
+type: PACKAGE
+version: 1.0
+name: port-auto-description Action package
+description: Action package containing a script that adds decriptions to ports based on LLDP information
