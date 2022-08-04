@@ -2,8 +2,6 @@
 
 ## **Note**: This is only available from CloudVision 2021.3.0 onwards
 
-## **Note**: Check out release branches (e.g. 2022.2) for scripts compatible with that CloudVision version
-
 ## Overview
 
 Here are a number of example Python3 scripts in action pack form to serve as reference to those designing their own user scripts.
